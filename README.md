@@ -4,6 +4,8 @@
 
 A small blog preview card built with HTML and CSS. It shows a category tag, a publish date, a title, a short excerpt, and the author's name and avatar, styled as a single card on a yellow background.
 
+## Live Preview --> https://blog-preview-card-ciprian.netlify.app/
+
 ## How it's built
 
 - Semantic HTML5 markup
