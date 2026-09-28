@@ -1,5 +1,7 @@
 # Blog Preview Card
 
+![Design preview for the Blog preview card coding challenge](./preview.jpg)
+
 A small blog preview card built with HTML and CSS. It shows a category tag, a publish date, a title, a short excerpt, and the author's name and avatar, styled as a single card on a yellow background.
 
 ## How it's built
